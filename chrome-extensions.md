@@ -1,16 +1,32 @@
-### General Webdev
+---
+
+### Productivity
+
+* [Nimbus Screenshot](https://chrome.google.com/webstore/detail/nimbus-screenshotbpconcjcammlapcogcnnelfmaeghhagj)
+* [Lazarus: Form Recovery](https://chrome.google.com/webstore/detail/lazarus-form-recovery/loljledaigphbcpfhfmgopdkppkifgno)
+* [1Password](https://chrome.google.com/webstore/detail/1password/hdmbinomkfhmgknkoicejolfdfjeajmk?hl=en-US)
+* [Bitly | Unleash the power of the link](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic)
+
+
+---
+
+### Webdev
 
 
 * [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
 * [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh)
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+* [DomFlags](http://domflags.com/)
+* [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp/related)
+* [ExtensionPageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli)
 
 ---
 
-### Debug Tools
+### Debug
 
 * [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna)
 * [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
+* [Google Font Previewer for Chrome](https://chrome.google.com/webstore/detail/google-font-previewer-for/engndlnldodigdjamndkplafgmkkencc)
 
 ---
 
@@ -25,21 +41,12 @@
 
 ---
 
-### Measuring Tools
 
+### Design
+* [Flat Colors Guide](https://chrome.google.com/webstore/detail/flat-colors-guide/nienncdeogcamkahjjmaaipnojjokbok/related)
 * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 * [MeasureIt](https://chrome.google.com/webstore/detail/measureit/pokhcahijjfkdccinalifdifljglhclm)
 * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
-
----
-
-### General Extensions for Web
-
-* [Nimbus Screenshot](https://chrome.google.com/webstore/detail/nimbus-screenshotbpconcjcammlapcogcnnelfmaeghhagj)
-* [Lazarus: Form Recovery](https://chrome.google.com/webstore/detail/lazarus-form-recovery/loljledaigphbcpfhfmgopdkppkifgno)
-* [1Password](https://chrome.google.com/webstore/detail/1password/hdmbinomkfhmgknkoicejolfdfjeajmk?hl=en-US)
-* [Bitly | Unleash the power of the link](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic)
-
 
 ---
 
@@ -47,6 +54,7 @@
 * [Search by Image (by Google)](https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm)
 * [EXIF Viewer](https://chrome.google.com/webstore/detail/exif-viewer/nafpfdcmppffipmhcpkbplhkoiekndck)
 * [Pixlr Editor](https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk)
+
 
 ---
 
@@ -57,7 +65,7 @@
 
 ---
 
-### Ad Blocking
+### Ad Block
 
 * [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)
 * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
