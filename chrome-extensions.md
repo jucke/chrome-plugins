@@ -18,6 +18,7 @@
 * [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp/related)
 * [ExtensionPageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Hasher](https://chrome.google.com/webstore/detail/hasher/kignjplbjlocolcfldfhbonmbblpfbjb)
 
 ---
 
