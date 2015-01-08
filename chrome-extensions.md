@@ -72,6 +72,7 @@
 * [Adblock for Youtube™](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk)
 * [Stop Autoplay for YouTube](https://chrome.google.com/webstore/detail/stop-autoplay-for-youtube/lgdfnbpkmkkdhgidgcpdkgpdlfjcgnnh)
 * [Magic Actions for YouTube](https://chrome.google.com/webstore/detail/magic-actions-for-youtube/abjcfabbhafbcdfjoecdgepllmpfceif)
+* [Adblock for Facebook](https://chrome.google.com/webstore/detail/adblock-for-facebook/jbfjodonncabnangfknilmabjfofdikc)
 
 ---
 
