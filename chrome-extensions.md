@@ -4,7 +4,7 @@
 * [Lazarus: Form Recovery](https://chrome.google.com/webstore/detail/lazarus-form-recovery/loljledaigphbcpfhfmgopdkppkifgno)
 * [1Password](https://chrome.google.com/webstore/detail/1password/hdmbinomkfhmgknkoicejolfdfjeajmk?hl=en-US)
 * [Bitly | Unleash the power of the link](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic)
-
+* [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
 
 ---
 
